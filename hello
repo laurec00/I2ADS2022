@@ -1,5 +1,1 @@
-#!/bin/bash
-
-NAME="Leila"
-
-echo "Hello ${NAME}"
+echo "Hello Leia"
